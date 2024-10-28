@@ -55,7 +55,7 @@ We implemented the code on an environment running Ubuntu 22.04.1, utilizing a 12
 
 
 ## Citation
-```bibtex=
+```bibtex
 @misc{multimodal_pathological_voice_classification_2023,
     title  = {Multimodal Pathological Voice Classification},
     author = {Jia-Wei Liao, Chun-Hsien Chen, Shu-Cheng Zheng, Yi-Cheng Hung},
