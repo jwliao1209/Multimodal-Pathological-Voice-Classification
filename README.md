@@ -17,7 +17,7 @@ The feature extraction process consists of two key steps:
 
 For the model training phase, we apply machine learning-based tree models such as Random Forest and LightGBM, along with a transformer-based deep learning model called TabPFN. An ensemble method is then used to combine the predicted probabilities from these models, resulting in the final output.
 
-<img width="633" alt="CleanShot 2023-09-03 at 17 30 45@2x" src="https://github.com/jwliao1209/Audio-Classification/assets/55970911/03aae843-789e-47fb-8fc3-87727e73e9ec">
+<img width="400" alt="pipeline" src="figures/pipeline.png">
 
 
 ## Requirements
